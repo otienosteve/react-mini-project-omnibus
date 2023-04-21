@@ -1,0 +1,114 @@
+{
+  "bikes": [
+    {
+      "id": "1",
+      "Time": "12.00pm",
+      "Bike_type": "Road bikes",
+      "Hiring_Price": "3000",
+      "Hired_Bikes": 30,
+      "capacity": 100,
+      "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
+      "image": "http://surl.li/gdgex"
+    },
+    {
+      "id": "2",
+      "Time": "2.00pm",
+      "Bike_type": "Touring bikes",
+      "Hiring_Price": "15000",
+      "Hired_Bikes": 48,
+      "capacity": 200,
+      "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+      "image": "http://surl.li/gdghc"
+    },
+    {
+      "id": "3",
+      "Time": "3.00pm",
+      "Bike_type": "Mountain bikes",
+      "Hiring_Price": "4000",
+      "Hired_Bikes": 33,
+      "capacity": 100,
+      "description": "An inventor comes up with a time machine, but must prevent its abuse at the hands of an evil C.E.O.",
+      "image": "http://surl.li/gbqtn"
+    },
+    {
+      "id": "4",
+      "Time": "4.00pm",
+      "Bike_type": "City/Commuter bikes",
+      "Hiring_Price": "4000",
+      "Hired_Bikes": 37,
+      "capacity": 200,
+      "description": "A young man meets a farm girl who is actually a witch.",
+      "image": "http://surl.li/gdgdj"
+    },
+    {
+      "id": "5",
+      "Time": "7.00am",
+      "Bike_type": "Hybrid bikes",
+      "Hiring_Price": "1500",
+      "Hired_Bikes": 50,
+      "capacity": 100,
+      "description": "The Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
+      "image": "http://surl.li/gdfqi"
+    },
+    {
+      "id": "6",
+      "Time": "8.30am",
+      "Bike_type": "Electric bikes ",
+      "Hiring_Price": "3000",
+      "Hired_Bikes": 16,
+      "capacity": 80,
+      "description": "A young man is transformed into a hideous 'moon beast' due to a meteor fragment lodged in his body.",
+      "image": "http://surl.li/gdgbg"
+    },
+    {
+      "id": "7",
+      "Time": "9.30am",
+      "Bike_type": "Rural Bikes ",
+      "Hiring_Price": "6000",
+      "Hired_Bikes": 20,
+      "capacity": 200,
+      "description": "A young man is transformed into a hideous 'moon beast' due to a meteor fragment lodged in his body.",
+      "image": "http://surl.li/gdfws"
+    },
+    {
+      "id": "8",
+      "Time": "10.45am",
+      "Bike_type": "Folding Bikes ",
+      "Hiring_Price": "4500",
+      "Hired_Bikes": 30,
+      "capacity": 400,
+      "description": "A young man is transformed into a hideous 'moon beast' due to a meteor fragment lodged in his body.",
+      "image": "http://surl.li/gdfvn"
+    },
+    {
+      "Time": "13:33",
+      "Bike_type": "Electric",
+      "Hiring_Price": "4500",
+      "Hired_Bikes": "300",
+      "capacity": "200",
+      "description": "very fast bike",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAEBAAMBAQEAAAAAAAAAAAAABgQFBwMBAv/EADoQAAEDAwMCAwUFBgcBAAAAAAECAwQABREGITESQQcTcRQiUWGBFTJCUpEWIyVisfAkQ3KCobLRF//EABgBAQEBAQEAAAAAAAAAAAAAAAADAgEE/8QAKBEAAgICAQEGBwAAAAAAAAAAAAECEQMhEjEyM0FhkbETcYGhwdHw/9oADAMBAAIRAxEAPwDtVKUoBSlKAUpSgFKUoBSlKAUpSgFKUoBSlR+o7lrS2rfdt9utcuEkFSFJDqnQAM7oBGT6Hf5UBYUqb0+L5cGo1xkX2M7Fc94MM28NhSfgSVqIPPeqSgFeMuUxCjOSZTgaZbHUtauEivaprxDlz7dpp2dbZpiLYcQp1SUJUpTZOCB1bZ3B7cc0BuLRdYN6h+12x8Px+opC0ggEj1rNqLtenbVYbOLlZZE16RJKHEPrkKHnrcwElSBhJ+9wRtVpt24oBSlKAV+HXW2W1OPOIbbSMqWtQAHqTWDfbszZreqU6kuLKghllP3nXDwkf3sAT2qKi2O4areE69SssA+4kDLYI7NI4246zkk1uMOW3pEsmXhpK2/D+8CqXrDTSFFK79bQQcE+0pwD65xW2iyo8xkPxJDT7KuHGlhST9RU8NG2dCQgofUeOrziM7fAbfDtUbqXT0vTc9p7SM183J0KX7OgDrKE/eUocKSOMEZ+Fa4QfZl9jCyZV2468nf4Rv4WpBaL5d7FDtU65LRJVIZRBSghCV7rClKUkJwsn9flWeZ+tpw/wdjtdsSTsu4TS8sD49DQxn5dVTFhvkRxFiujSQ1It7v2fdE9WSpuQfddJO5BdSk+pV610ybKjwYr0qY8hmOykrccWcBIHJNTaadMummrRKyrLe1MOSL/AK1dixk7rECO3FQgf61dSv6VNa105YrdHMaNHlXW+yR5TAmyHJKgo53AOR1YyRsMAEkgDeU8R9TTNU3WHFt582E4hKo0RtPUoqUcArH5zwB239TSuLe8P7HFMpZm6rmteWhSv3nszefug/iOcD+Yj8qMUSvSDddTL8P9Rwo8H2PUNxYZfs7q2UNOK3J3TlIG6sYX8diOO9a1rrTjq+lM9Y7dSoryU/qU4rmH7LybHcYFw1diTEuUjMwdZyw4onBUoHfJO/bOAORXUf2T0+Gilu3NtjfCm1qSe/cGtqMFqTJylke4JfU3UOZFnMJkQpDUhlXDjSwpJ+or3rnd3sczS7pu9kkL8pJHndQ3A/nAwFp/5TznuLPT91bvdsbltJ6FZ6HW858tY5H9CD3BBpOHFWto5DLybi1TXgSms3DO1VAtnWUpQ0g7HGC8spKvUJQrHrVeCwyyltJS00hICcYwkDYelRuuf4bqi33ZST5a20BRGf8AKWVEepStWPQ1ZBwupSqOWyFAFLgAPzB5OfjXZ93GvMzi72d9delfuznmtfEJ+2TWoloQ24pham5D56SlZxkJbJI3G2TvjNWGmo7fsv2it1MmdNSlbzyMkBOMpbB56Eg7DYZyTuTUzfvD+Ld5sp92a+Ixc81xASMlat1FJ4wSM4IPPPavP/5VYY7inIipkdzkOMvYI+hx3535qR6DAv8AY/L1w5EjDy4d6juNOEbBtSwcEdshxKFD4YNT/iJfr7dbfamXFtmK602JEVkdam5I91Qcxyer7o+ONs4NfZul7mnViYFtvkqb7OCovyT5hjJ2Kj0knOM8Y3JH1yLBpe6MalFwtFztcxRlFgSGkdakKSQVudCVJSlH3ged8YG4xTI3asliS466W/crPC3QCdPx0XW6tj7UdT7jat/Zknn/AHkcntwO5OFAb+2/GGc9KAU1bUEtpPAKcISP1K1fWrezwr9HmPLut5jzYygehtEPylJPbcK9cjftuO8a3/APFqWqR7jFza/dq7e9g/8AdKx+lMW2/kdytJW+hvvEbo/ZSaC2HgtIbKNyUhRCesY/KSFcj7vIrV+H2rBc4bFtfUXZkXKFlI3cAOAofHtnuM1avJLiS0gJHWMFRGdj3HbjNaiHp+3Q58mfHjIDriwFqKRlaekbk8k5BNTKG7LZebUh1sFCklKknfIPIriXVMhTJ0OLMfZRGlOM4bXjPScAn54ArssyTGt0J6XKcCIzCCtalb4SK47YrLfNRNzLrBiIW3JluOEOL6CkqPVj57Eb/wDlWg0ovl0I5ItzTXU7DqCzsXy2OQ5B6DnqadAyW1jhQ/vcE1z+2Xq6aKkC0X+OpyDnEd1O4A3OEH8Se/TsR6YFdSrCuNriXJlTMxvzGlbKQTlJ9RWIzpU1aNTx8tp0zSsarsS2wRPbCVbq6tjyeRWmuut0ulNv04y7LnOjCChOcfMenGeMcmtsrw904okmI6M9kyFgfoDWztem7TaUkQIaGurdRHKvU9/rWuWNbUfUn8PLLUp68lT92a7Q+l1WJh6XOWHbpMwX1g5CByED6nJPc/ICqcAAkgAE87c0SkJGBX2pttu2XjFRVIVO6z021qGAjDiWJsclUd48D4pPyOB6EA78Gir4QDyKJtO0Gk1TOcW7WkmzrFv1LGWHU+6HkkHzB6/i4G47VsZfiBaGGiqO3Kkr2JQhk5OMfH55/WqqXaoEwESojToPIWkEGsJnSen2HPMZs8JC/wAyWUg1TnF7cdkY4Zx1GWvU504u9eIktph4JgWRtfX0BXUlRHBUfxn5D3c87711S1QI1rt7MKEjoYaThI7knck/Ekkk+te7bDTQw22lIHwGK9KxKVlVGhSlKyaFKUoBSlKAUpSgFKUoBSlKA//Z",
+      "id": "yV6ITPo"
+    }
+  ],
+  "details": [
+    {
+      "id": "1",
+      "Firstname": "vincent",
+      "Lastname": "Tommi",
+      "username": "vincenttomm@gmail.com",
+      "City": "Nairobi",
+      "Estate": "Lions Gate",
+      "zip": "2007"
+    },
+    {
+      "id": "2",
+      "firstname": "Daniel",
+      "lastname": "Karanja",
+      "username": "Danielkaranja@gmail.com",
+      "city": "Nairobi",
+      "estate": "Ubabini",
+      "zip": "405"
+    }
+  ]
+}
